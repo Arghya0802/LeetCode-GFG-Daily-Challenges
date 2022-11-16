@@ -1,5 +1,6 @@
-// This is a classic question of Binary-Search
+// https://leetcode.com/problems/guess-number-higher-or-lower/description/
 
+// This is a classic question of Binary-Search
 class Solution {
 public:
     int guessNumber(int n) 
