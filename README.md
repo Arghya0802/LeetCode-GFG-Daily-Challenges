@@ -1,2 +1,2 @@
 # LeetCode-Daily-Challenges
-We will store all the codes for the LeetCode Daily Challenges which I have solved
+This repo contains all the LeetCode Daily Questions which I have solved till now
