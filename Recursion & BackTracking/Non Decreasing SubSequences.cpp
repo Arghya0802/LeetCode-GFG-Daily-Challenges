@@ -3,7 +3,7 @@
 // The question is pretty straightforward - we need to generate All Possible Subsequences 
 // Then, those subsequences which are Increasing in nature (<=) we consider them as valid and put inside our ans[][]
 // However, we need to maintain a Set<vector<int>> to keep a check whether we are including any duplicate subsequence again or not
-// The duplicacy will occurr because of NotTake condition, if we don't use a Set we will keep including the same subsequence again and again
+// The duplicacy will occurr because of NotTake condition and for repetition of same numbers, the result for which we keep getting same subsequences again and again
 
 class Solution {
 private:
