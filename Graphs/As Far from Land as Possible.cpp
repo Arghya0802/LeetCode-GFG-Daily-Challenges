@@ -1,6 +1,6 @@
 // Link: https://leetcode.com/problems/as-far-from-land-as-possible/description/
 
-// The only edge case we need to handle is that if our Max-Steps-Count is still 0, it means all the cells have land so we return -1
+// The only edge case we need to handle is that if our Max-Steps-Count is still 0, it means all the cells have land or all the cells have water so we return -1
 
 class Solution {
 private:
