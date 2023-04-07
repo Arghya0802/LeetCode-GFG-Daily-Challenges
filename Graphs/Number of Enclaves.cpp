@@ -109,8 +109,8 @@ public:
             {
                 if(!visited[row][col] && grid[row][col] == 1)
                 {
-                    int cnt = bfs(row , col , m , n , visited , grid) ;
-                    maxCnt += cnt ;
+                    // int cnt = bfs(row , col , m , n , visited , grid) ;
+                    maxCnt += 1 ;
                 }
             }
         }    
