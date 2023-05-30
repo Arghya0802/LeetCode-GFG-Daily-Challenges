@@ -1,4 +1,4 @@
-// Link:  
+// Link:  https://leetcode.com/problems/design-hashset/description/
 
 class MyHashSet {
 private:
