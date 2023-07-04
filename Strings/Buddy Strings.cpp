@@ -5,7 +5,7 @@ private:
 
 bool containSameLetters(string &s , string &goal)
 {
-    int freqA[26] = {0} ; int freqB[26] = {0} ;
+    int freqA[26] = {0} ; int freqB[26] = {0}  ;
     
     for(char ch : s)  freqA[ch - 'a'] += 1 ; 
 
